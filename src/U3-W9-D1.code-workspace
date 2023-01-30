@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"path": "../../../Documents/GitHub/U3-W9-D1"
+	},
+	{
+		"path": ".."
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "my-first-react-app"
+  }
+}
